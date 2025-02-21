@@ -21,3 +21,14 @@
 17. First-Order Minimax Bilevel Optimization
 18. An Accelerated Gradient Method for Convex Smooth Simple Bilevel Optimization
 19. CoBo: Collaborative Learning Via Bilevel Optimization
+
+## ICLR 2025
+1. Unlocking Global Optimality in Bilevel Optimization: A Pilot Study
+2. LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace
+3. qNBO: quasi-Newton Meets Bilevel Optimization
+4. DUET: Decentralized Bilevel Optimization without Lower-Level Strong Convexity
+5. Overcoming Lower-Level Constraints in Bilevel Optimization: A Novel Approach with Regularized Gap Functions
+6. dEBORA: Efficient Bilevel Optimization-based low-Rank Adaptation
+7. SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection
+8. Tuning-Free Bilevel Optimization: New Algorithms and Convergence Analysis
+9. Value-aligned Behavior Cloning for Offline Reinforcement Learning via Bi-level Optimization
